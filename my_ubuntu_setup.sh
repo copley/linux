@@ -131,3 +131,6 @@ sudo apt install -y net-tools
 sudo apt-get install -y railties
 sudo apt get install rbenv -y && rvm -y
 sudo apt get ruby-railties -y
+# to get full screen working on Virtual Box
+sudo apt-get install virtualbox-guest-additions-iso -y
+sudo apt-get install virtualbox-guest-dkms -y
