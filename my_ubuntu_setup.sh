@@ -35,7 +35,7 @@ sudo service mongod status
 sudo npm install -y forever -g
 
 # Git - a version control system
-sudo apt-get update
+sudo apt-get update -y
 sudo apt-get install -y git
 
 # Grunt - an automated task runner
@@ -129,3 +129,4 @@ sudo apt install -y net-tools
 # ruby
 # rails
 sudo apt-get install -y railties
+sudo apt get install rbenv -y && rvm -y
