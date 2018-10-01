@@ -130,3 +130,4 @@ sudo apt install -y net-tools
 # rails
 sudo apt-get install -y railties
 sudo apt get install rbenv -y && rvm -y
+sudo apt get ruby-railties -y
