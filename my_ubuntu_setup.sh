@@ -135,3 +135,5 @@ sudo apt get ruby-railties -y
 sudo apt-get install virtualbox-guest-additions-iso -y
 sudo apt-get install virtualbox-guest-dkms -y
 sudo apt install eclipse-platform -y
+sudo apt install curl -y
+sudo apt install wget -y
