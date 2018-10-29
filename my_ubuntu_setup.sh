@@ -134,3 +134,4 @@ sudo apt get ruby-railties -y
 # to get full screen working on Virtual Box
 sudo apt-get install virtualbox-guest-additions-iso -y
 sudo apt-get install virtualbox-guest-dkms -y
+sudo apt install eclipse-platform -y
