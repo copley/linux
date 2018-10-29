@@ -137,3 +137,6 @@ sudo apt-get install virtualbox-guest-dkms -y
 sudo apt install eclipse-platform -y
 sudo apt install curl -y
 sudo apt install wget -y
+sudo apt install -y chromium-browser
+sudo apt install -y pepperflashplugin-nonfree
+sudo update-pepperflashplugin-nonfree --install
