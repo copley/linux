@@ -37,6 +37,7 @@ sudo npm install -y forever -g
 # Git - a version control system
 sudo apt-get update -y
 sudo apt-get install -y git
+sudo apt install railties -y
 
 # Grunt - an automated task runner
 sudo npm install -y -g grunt-cli
