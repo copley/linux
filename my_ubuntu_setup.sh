@@ -141,4 +141,6 @@ sudo apt install wget -y
 sudo apt install -y chromium-browser
 sudo apt install -y pepperflashplugin-nonfree
 sudo update-pepperflashplugin-nonfree --install
+sudo apt install ruby-dev -y
+sudo apt install railties -y
 sudo apt install ruby-bundler -y
