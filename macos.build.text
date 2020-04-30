@@ -16,6 +16,7 @@ By typing 'agree' you are agreeing to the terms of the software license agreemen
 
 Install MAC Ports https://www.macports.org/install.php (Links to an external site.)Links to an external site.
 
+Error Note: The error sudo: port: command not found
 NOTE: export PATH=/opt/local/bin:/opt/local/sbin:$PATH
 macsierra$ sudo port -v selfupdate
 
