@@ -144,3 +144,5 @@ sudo update-pepperflashplugin-nonfree --install
 sudo apt install ruby-dev -y
 sudo apt install railties -y
 sudo apt install ruby-bundler -y
+sudo apt install tree -y
+sudo apt install maven -y
